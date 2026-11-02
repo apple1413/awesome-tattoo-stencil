@@ -14,6 +14,8 @@ Whether you're a professional tattoo artist or designing your own piece for the 
 
 - [TattooStencil](https://tattoostencil.org) — Free AI tattoo stencil maker. Upload any photo or artwork and get a clean line-art stencil in about 30 seconds. Works well for portraits, pet tattoos, fine-line designs, and traditional flash. Prints on regular paper — no thermal printer or transfer paper required. Free trial with a credit system; 1 credit unlocks HD downloads.
 
+- [InkPreview](https://inkpreview.co/tattoo-stencil-generator) — Free AI tattoo stencil generator with an on-skin preview step: turn a photo or prompt into clean line-art, then check it on a body before printing.
+
 ## Guides & Tutorials
 
 - [How to Make a Tattoo Stencil](https://tattoostencil.org/blog/how-to-make-a-tattoo-stencil) — Step-by-step walkthrough of the full stencil-making process, from reference photo to finished line drawing.
